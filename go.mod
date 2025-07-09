@@ -1,4 +1,4 @@
-module protos
+module github.com/KotaNch/protos
 
 go 1.24.0
 
